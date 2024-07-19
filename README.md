@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil da Elaine (inhumanet)😁
+# Bem-vind@ ao perfil da Elaine (inhumanet)😁
 
  <div>
    <a href="https://github.com/inhumanet.io>
